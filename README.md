@@ -22,3 +22,5 @@ The app asks multiple questions, checks user answers, and shows the final score.
 3. Run:
 
 python quiz.py
+## Screenshot
+![Quiz App](screenshot.png)
